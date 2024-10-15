@@ -28,7 +28,8 @@
 
 
 
-
+### October 15, 2024
+- [fancy text generator](https://thefancytext.com/) - This site offers users a fun and creative way to transform standard text into stylized formats.
 
 ### December 10, 2021
 - [The Ultimate Google Sheets Toolkit](https://tools.airboxr.com/?ref=producthunt) - A curated list of Google Sheets resources to supercharge your analysis, manage your workflow, or build expertise in advanced analytics.
